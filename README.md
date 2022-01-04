@@ -11,3 +11,9 @@ Helping others is my specialty.
 - Html
 - Css
 ```
+
+## What I am working on
+```
+Waveside.lua - lua to legendware
+OneSec - Obfcusator for C#
+```
