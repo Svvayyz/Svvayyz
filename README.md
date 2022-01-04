@@ -1,5 +1,5 @@
 # Hello,
-I'm Svvayyz. I am currently learning c++ development,  but I also do some other projects for my own pleasure. 
+I'm Svvayyz. I am currently learning c++ development, frontendholder, but I also do some other projects for my own pleasure. 
 ## Languages I am familiar with
 ```
 - C#
