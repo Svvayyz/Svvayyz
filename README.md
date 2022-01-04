@@ -6,8 +6,8 @@ Helping others is my specialty.
 ## Languages I am familiar with
 
 ```
-C#
-Lua
-Html
-Css
+- C#
+- Lua
+- Html
+- Css
 ```
