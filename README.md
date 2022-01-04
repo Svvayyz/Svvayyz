@@ -14,6 +14,6 @@ Helping others is my specialty.
 
 ## What I am working on
 ```
-Waveside.lua - lua to legendware
-OneSec - Obfcusator for C#
+- Waveside.lua - lua to legendware
+- OneSec - Obfcusator for C#
 ```
