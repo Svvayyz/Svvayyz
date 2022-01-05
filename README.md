@@ -12,3 +12,5 @@ I'm Svvayyz. I am currently learning c++ development, frontendholder, but I also
 - Waveside.lua - lua to legendware
 - OneSec - Obfcusator for C#
 ```
+## How To Contact me
+- Discord: Svvayyz#2762
