@@ -6,6 +6,7 @@
 - Html
 - Css
 ## What I am working on
+- Clicksense - private clicker ( maybe ghost client soon ) for minecraft
 - Waveside.lua - lua to legendware
 - OneSec - Obfcusator for C#
 ## How To Contact me
