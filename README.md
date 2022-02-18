@@ -10,5 +10,5 @@
 - Waveside.lua - lua to legendware
 - OneSec - Obfcusator for C#
 ## How To Contact me
-- Discord: Svvayyz#2762
+- Discord: Svvayyz#7153
 
