@@ -1,5 +1,5 @@
 # Hello,
-- I'm Svvayyz. I am currently learning c++ development, frontendholder, csgo hvh god, but I also do some other projects for my own pleasure. 
+- I'm Svvayyz. I am currently learning c++ development, frontendholder, csgo hvh god, I also do some other projects for my own pleasure. 
 ## Languages I am familiar with
 - C#
 - Lua
