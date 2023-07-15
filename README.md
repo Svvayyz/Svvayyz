@@ -3,7 +3,7 @@
 ## Languages I am familiar with
 - C#
 - LUA
-- HTML, CSS,JS
+- HTML, CSS, JS
 - C++
 ## What I am working on
 - Waveside.lua - lua to legendware
