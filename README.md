@@ -6,9 +6,8 @@
 - HTML, CSS, JS
 - C++
 ## What I am working on
-- Waveside.lua - lua to legendware
+- invictus.black, stealth.codes - luas for gamesense
 - OneSec - Obfcusator for C#
-- Protection.solutions - best c# open source antivirus
 ## How To Contact me
 - Discord: Svvayyz#7153
 
