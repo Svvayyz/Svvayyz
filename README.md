@@ -1,7 +1,12 @@
-## Languages I am familiar with
+## Stuff I am familiar with
 - Entirety of the C language family
 - Some scripting languages (Lua, Js)
 - Languages used for frontend (rarely do stuff there tho)
+
+- Low level programming, including memory management / Gamehacking
+- The FFI library
+- .NET's reflection library
+- heavily OOP-ing everything
 
 ## How To Contact me
 - Discord: Svvayyz#7153
