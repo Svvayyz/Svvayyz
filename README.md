@@ -1,11 +1,7 @@
-# Hello,
-- I'm Svvayyz. I am currently learning c++ development, csgo hvh god & adorable hvh owner, OOP fan. I also do some other projects for my own pleasure. 
-
 ## Languages I am familiar with
-- C#
-- LUA
-- HTML, CSS, JS
-- C++
+- Entirety of the C language family
+- Some scripting languages (Lua, Js)
+- Languages used for frontend (rarely do stuff there tho)
 
 ## How To Contact me
 - Discord: Svvayyz#7153
